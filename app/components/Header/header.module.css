@@ -1,0 +1,36 @@
+
+.header {
+   background-color: #4A90E2;
+   color: #fff;
+   padding: 20px;
+   text-align: center;
+ }
+ 
+ .title {
+   margin: 0;
+   font-size: 2rem;
+   
+ }
+ 
+ .navList {
+   list-style: none;
+   padding: 0;
+     
+ }
+ 
+ .navItem {
+   display: inline;
+   margin: 0 15px;
+   cursor: pointer;
+ }
+ .title:hover {
+   text-decoration: underline;
+} 
+
+.hac{
+  display: flex;
+  justify-content: space-evenly;
+  gap:3rem;
+  background-color: rgb(14, 14, 13);
+  border-radius: 0cap;
+}
